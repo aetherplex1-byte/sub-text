@@ -1,0 +1,10 @@
+{
+  "name": "subtexto",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Subtexto - analiza el subtexto real de los mensajes con IA",
+  "dependencies": {
+    "stripe": "^17.0.0"
+  }
+}
